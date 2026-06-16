@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-/home/jakcr/git-shell/holbertonschool-shell/basics
-=======
-cd
->>>>>>> b34b2ac (correct home)
+cd ~
