@@ -1,2 +1,2 @@
 #!/bin/bash
-uniqu -i | echo
+uniq -i | echo
